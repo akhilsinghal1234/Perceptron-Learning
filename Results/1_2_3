@@ -1,0 +1,22 @@
+
+Number of files:finished
+1
+finished
+2
+finished
+3
+Confusion Matrix: 
+ [[ 124.    0.    1.]
+ [   1.  120.    4.]
+ [   0.    0.  125.]]
+For file 1 :
+ Recall:  0.99 , Precision:  0.99 , F-score:  0.99 
+
+For file 2 :
+ Recall:  0.96 , Precision:  1.0 , F-score:  0.98 
+
+For file 3 :
+ Recall:  1.0 , Precision:  0.96 , F-score:  0.98 
+
+Mean Recall:  0.98  Precision:  0.98  F-score:  0.98
+Accuracy: 0.976

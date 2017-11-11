@@ -1,0 +1,16 @@
+Number of files:finished
+1
+finished
+2
+Confusion Matrix: 
+ [[ 125.    0.]
+ [   0.  125.]]
+For file 1 :
+ Recall:  1.0 , Precision:  1.0 , F-score:  1.0 
+
+For file 2 :
+ Recall:  1.0 , Precision:  1.0 , F-score:  1.0 
+
+Mean Recall:  1.0  Precision:  1.0  F-score:  1.0
+
+Accuracy: 1
